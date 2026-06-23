@@ -176,16 +176,6 @@ No further action is required.
 
 ---
 
-## Need Help?
-
-If you are a Red Barn HPC client or need assistance with remediation, contact us:
-
-- **Web:** https://redbarnhpc.com
-- **Email:** [support@redbarnhpc.com]
-- **Phone:** [RED BARN PHONE]
-
----
-
 ## Disclaimer
 
 These scripts are provided as-is. Firmware updates carry inherent risk. Always ensure your data is backed up before performing any firmware update. Red Barn HPC is not responsible for data loss resulting from firmware operations.
